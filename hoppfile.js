@@ -14,6 +14,7 @@ const plugins = [
   'hopp-plugin-babel',
   'hopp-plugin-concat',
   'hopp-plugin-notify',
+  'hopp-plugin-eslint',
 ]
 
 /**
